@@ -1,3 +1,3 @@
 # nix-google-cloud-sdk
 
-Deprecated. Use https://github.com/serge-name/nix-cloud-tools/ instead.
+Deprecated. Use https://github.com/serge-name/nix-packages/ instead.
